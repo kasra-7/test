@@ -31,12 +31,12 @@ public class ActSplash extends AppCompatActivity {
 
         spTransition(Gravity.TOP, View.VISIBLE, 100);
 
-        spTransition(Gravity.BOTTOM, View.INVISIBLE, 2700);
+        spTransition(Gravity.BOTTOM, View.INVISIBLE, 2300);
 
         new Handler().postDelayed(() -> {
             startActivity(new Intent(ActSplash.this, MainActivity.class));
             finish();
-        }, 3900);
+        }, 3500);
     }
 
 

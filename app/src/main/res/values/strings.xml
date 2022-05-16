@@ -1,3 +1,105 @@
 <resources>
     <string name="app_name">تست شخصیت شناسی</string>
+    <string name="btn_title_1">آزمون</string>
+    <string name="btn_title_2">راهـنـمـا</string>
+    <string name="btn_title_3">منابع</string>
+    <string name="btn_title_4">درباره ما</string>
+    <string name="help_title">تست شخصیت شناسی بسیار جالب. با پاسخ دادن به چند سوال میتوانید شخصیت خود را محک بزنید و از اسرار درونی تان آگاه شوید.لطفا صادقانه جواب دهید.</string>
+
+
+    <string name="question1">"1) دوست دارید چه نوع پرنده ای باشید؟"</string>
+    <string name="question1_1">"شباهنگ"</string>
+    <string name="question1_2">"جغد"</string>
+    <string name="question1_3">"عقاب"</string>
+    <string name="question1_4">"فلامینگو"</string>
+    <string name="question1_5">"پنگوئنشخصیت شناسی"</string>
+
+    <string name="question2">"2) کدام یک از آلات موسیقی را دوست دارید؟"</string>
+    <string name="question2_1">"پیانو"</string>
+    <string name="question2_2">"ویلیون"</string>
+    <string name="question2_3">"ساز دهنی"</string>
+    <string name="question2_4">"گیتار"</string>
+    <string name="question2_5">"دف"</string>
+
+    <string name="question3">"3) فرض کنید شما مشخصه صورت کسی هستید، کدام قسمت از صورت او هستید؟"</string>
+    <string name="question3_1">"چین و چروک"</string>
+    <string name="question3_2">"لکه"</string>
+    <string name="question3_3">"خال زیبایی"</string>
+    <string name="question3_4">"کک و مک"</string>
+    <string name="question3_5">"لبخند"</string>
+
+    <string name="question4">"4) کدام یک از برنامه های تلویزیونی برای شما جالب تر است؟"</string>
+    <string name="question4_1">"اخبار و برنامه های مستند"</string>
+    <string name="question4_2">"فیلم های درام و زندگینامه"</string>
+    <string name="question4_3">"هیجانی و پلیسی"</string>
+    <string name="question4_4">"عشقی و ماجرایی"</string>
+    <string name="question4_5">"کمدی و کارتون"</string>
+
+    <string name="question5">"5)  کدام یک از بازی های شهر بازی را بیشتر دوست دارید؟"</string>
+    <string name="question5_1">"ترن های هوایی سریع السیر"</string>
+    <string name="question5_2">"قطار یا قایق"</string>
+    <string name="question5_3">"نمایش و اجرای کمدی"</string>
+    <string name="question5_4">"چرخ و فلک و وسایلی که سریع می چرخند"</string>
+    <string name="question5_5">"هیچ کدام، من از شهربازی متنفرم"</string>
+
+    <string name="question6">"6)  آیـا شـمـا بـه اشـتـبـاهـات خـودتـان می خندید؟"</string>
+    <string name="question6_1">"هرگز"</string>
+    <string name="question6_2">" بندرت"</string>
+    <string name="question6_3">"برخی مواقع"</string>
+    <string name="question6_4">"معمولا"</string>
+    <string name="question6_5">"همیشه"</string>
+
+    <string name="question7">"7)  اگـر دوسـت شـمـا سـر بـه سرتان گذاشت،چه عکس العملی نشان می دهید؟"</string>
+    <string name="question7_1">"عصبانی می شوید"</string>
+    <string name="question7_2">"ناراحت می شوید"</string>
+    <string name="question7_3">"برایتان جالب است"</string>
+    <string name="question7_4">"تلافی میکنید"</string>
+    <string name="question7_5">"چندین برابر تلافی می کنید"</string>
+
+    <string name="question8">"8)  اولین چیزی که صبح موقع بیدار شدن به فکرتان خطور می کند،چیست؟ "</string>
+    <string name="question8_1">"کار یا تحصیل"</string>
+    <string name="question8_2">"مشکلات زندگی"</string>
+    <string name="question8_3">"صبحانه"</string>
+    <string name="question8_4">"روزی که در پیش دارید"</string>
+    <string name="question8_5">"کاری که تا شب انجام خواهید داد"</string>
+
+    <string name="question9">"9) در زندگیتان چه شعاری دارید؟"</string>
+    <string name="question9_1">"وقت طلاست"</string>
+    <string name="question9_2">"سحرخیز باش تا کامروا باشی"</string>
+    <string name="question9_3">"آنچه برای خود می پسندی، برای دیگران هم بپسند"</string>
+    <string name="question9_4">"زندگی کن و به دیگران هم اجازه زندگی کردن بده"</string>
+    <string name="question9_5">"بی خیال باش، هرچه باداباد"</string>
+
+    <string name="question10">"10) آیا به حیوانات علاقه مندید؟"</string>
+    <string name="question10_1">"اصلا"</string>
+    <string name="question10_2">"تعداد کمی از حیوانات"</string>
+    <string name="question10_3">"برخی از حیوانات"</string>
+    <string name="question10_4">"بیشتر حیوانات"</string>
+    <string name="question10_5">"تمام حیوانات"</string>
+
+    <string name="question11">"11)  شما لبخند می زنید؟"</string>
+    <string name="question11_1">"هرگز"</string>
+    <string name="question11_2">"بندرت"</string>
+    <string name="question11_3">"گاهی اوقات"</string>
+    <string name="question11_4">"اغلب"</string>
+    <string name="question11_5">"آنقدر زیاد که برخی فکر می کنند دیوانه هستم"</string>
+
+    <string name="question12">"12)  نظر دیگران راجع به شما اغلب کدام مورد است؟"</string>
+    <string name="question12_1">"بی رحم"</string>
+    <string name="question12_2">"سرد و بی احساس"</string>
+    <string name="question12_3">"زیبا"</string>
+    <string name="question12_4">"دوست داشتنی"</string>
+    <string name="question12_5">"خوشگذران"</string>
+
+    <string name="question13">"13)  شما احساس عشق و قدردانی خود را نشان می دهید؟"</string>
+    <string name="question13_1">" هرگز"</string>
+    <string name="question13_2">"بندرت"</string>
+    <string name="question13_3">"گاهی"</string>
+    <string name="question13_4">"اغلب"</string>
+    <string name="question13_5">"حداکثر تا جایی که امکان دارد"</string>
+
+
+    <string name="Res1">"بدین معنی است که شما سوسن سفید هستید.مردم شما را به خاطر پشتکارتان،ازجــــان و دل مــــایــــه گــــذاشــتــــن تــــان و مـوفـقـیـت هـایـتـان تقدیر می کنند.اهداف مشخصی دارید و فکرتان بر کارتان متمرکز است.احتمالا فرزند اول خانواده هستید.احساستان را بسختی ابراز می کنید. یکی از مهم ترین نگرانی های شما این است که چگونه در برابر افراد مختلف ظاهر شوید.اندیشه هایتان کمی متمایل به بدبینی است.اعتماد به نفس دارید ولی در باطن گاهی به خود اعتماد ندارید."</string>
+    <string name="Res2">"بدین معنی است که شما یک گل رز هستید.کمی تیغ دارید ولی زیبایی های بسیاری دارید.حس شوخ طبعی دارید ولی از شنیدن جوک لذت می برید.احتمالا فرزند وسط خانواده هستید.مردم دوست دارند دوروبر شما باشند.خونگرم هستید.دوستان صمیمی بسیاری دارید.زندگی را بـا دیـد واقـع بـیـنـانـه می نگرید.آگاهید که زندگی از خوبی ها و بدی ها تشکیل شده است.قادرید شانس خودتان را با توجه به سـرمـایـه هـایـی کـه داریـد،امـتـحـان کـنید.سختکوش هستید و به اهدافتان پایبندید.دوست دارید خودتان باشید و این مساله به شما اعتماد به نفس می دهد. مشکل ترین مساله در زندگیتان یکنواخت بودن مسائل است.یکنواختی در هر مساله ای شما را آزار می دهد و باعث کسل شدن روحیه شما می شود."</string>
+    <string name="Res3">"ـدیـن مـعـنـی اسـت که شما یک گل آفتابگردان هستید در بستری از گل های رز.یک ویژگی بارز در شما وجود دارد که باعث گرمادهی به دیگران و جلوه گری شــمـــا مـــی شـــود.مــمــکـــن اســـت شــمــا کوچک ترین فرزند خانواده یا تنها فرزند باشید. در وقت لازم جدی هستید، ولی دوستانتان شما را به عنوان یک شخص شوخ طبع می شناسند.از گفتن جوک لذت می برید.گاهی شیطنت می کنید.مایلید که با افراد جدید و جالبی در زندگیتان آشنا شوید.با افرادی که هیچ وقت نمی خندند،راحت نیستید.دید مثبتی به زندگی دارید.در همه چیز به دنبال خوبی ها هستید.بیدی نـیـسـتـیـد کـه بـا هـر بـادی بـلـرزید.گرم،دوست داشتنی،باوفا و اجتماعی هستید و هر کدام از این صفات می تواند دلیلی برای خوب بودن شما باشد.انرژی نامحدودی دارید ولی انگیزه تان کم است."</string>
 </resources>

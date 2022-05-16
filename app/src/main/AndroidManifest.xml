@@ -14,17 +14,27 @@
         android:theme="@style/Theme.Test"
         tools:targetApi="31">
         <activity
+            android:name=".ActHelp"
+            android:exported="false" />
+        <activity
+            android:name=".ActSource"
+            android:exported="false" />
+        <activity
+            android:name=".ActTest"
+            android:exported="false" />
+        <activity
             android:name=".ActSplash"
             android:exported="true"
             android:theme="@style/fulScreen">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
+
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
             android:name=".MainActivity"
-            android:exported="true"/>
+            android:exported="true" />
     </application>
 
 </manifest>
