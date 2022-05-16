@@ -3,25 +3,33 @@
     xmlns:tools="http://schemas.android.com/tools"
     package="t.s.t">
 
+    <uses-permission android:name="android.permission.INTERNET"/>
+
     <application
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:fullBackupContent="@xml/backup_rules"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
+        android:largeHeap="true"
+        android:requestLegacyExternalStorage="true"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Test"
+        android:usesCleartextTraffic="true"
         tools:targetApi="31">
-        <activity
-            android:name=".ActHelp"
-            android:exported="false" />
         <activity
             android:name=".ActSource"
             android:exported="false" />
         <activity
             android:name=".ActTest"
             android:exported="false" />
+        <activity
+            android:name=".ActHelp"
+            android:configChanges="orientation"
+            android:exported="false"
+            android:screenOrientation="landscape"
+            android:theme="@style/fulScreen" />
         <activity
             android:name=".ActSplash"
             android:exported="true"
